@@ -1,0 +1,34 @@
+{
+  "name": "c4accesscontrol",
+  "version": "0.0.1",
+  "description": "C4Framework Web Service Access Control",
+  "main": "out",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sextants/C4AccessControl.git"
+  },
+  "keywords": [
+    "C4Framework",
+    "Web",
+    "Access Control"
+  ],
+  "author": "Sextant",
+  "bugs": {
+    "url": "https://github.com/Sextants/C4AccessControl.git"
+  },
+  "dependencies": {
+    "@types/ioredis": "^3.2.8",
+    "@types/lodash": "^4.14.111",
+    "@types/node": "^9.6.0",
+    "@types/request": "^2.47.0",
+    "c4utils": "0.0.2",
+    "ioredis": "^3.2.2",
+    "lodash": "^4.17.10",
+    "path-to-regexp": "^2.2.1",
+    "reflect-metadata": "^0.1.12",
+    "request": "^2.87.0"
+  }
+}
