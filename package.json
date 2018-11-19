@@ -1,6 +1,6 @@
 {
   "name": "c4accesscontrol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "C4Framework Web Service Access Control",
   "main": "out",
   "scripts": {
@@ -24,7 +24,7 @@
     "@types/lodash": "^4.14.111",
     "@types/node": "^9.6.0",
     "@types/request": "^2.47.0",
-    "c4utils": "0.0.2",
+    "c4utils": "0.0.4",
     "ioredis": "^3.2.2",
     "lodash": "^4.17.10",
     "path-to-regexp": "^2.2.1",
